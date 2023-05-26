@@ -62,7 +62,8 @@ public class CardTrick {
      * @modifedBy Hansol Na May 26 2023
      */
     private static void printInfo() {
-    
+    	/*I Apologize for the confusion, but I have already modified this method when I first pushed it to github.
+	This comment was made After it was pushed to show some changes*/
         System.out.println("Congratulations, you guessed right!");
         System.out.println();
         
@@ -79,10 +80,10 @@ public class CardTrick {
         System.out.println("-- Working out");
         System.out.println("-- Chilling with my cats");
         System.out.println("-- Watching movies");
-
-        System.out.println();
-        
-    
+	
+	//I am adding a few more lines here to add more modification to the printInfo method
+	System.out.println("I am looking forward to learning from you this term, Thank you very much!")
+        System.out.println()
     }
     private static int randNumGen(){
         return 1 + (int)(Math.random()*13);
