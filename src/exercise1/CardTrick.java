@@ -64,6 +64,7 @@ public class CardTrick {
     private static void printInfo() {
     	/*I Apologize for the confusion, but I have already modified this method when I first pushed it to github.
 	This comment was made After it was pushed to show some changes*/
+	//This comment was made on Jun 2, at 12:06pm for testing purposes
         System.out.println("Congratulations, you guessed right!");
         System.out.println();
         
